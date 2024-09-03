@@ -1,0 +1,3 @@
+# ~/.config/zathura/zathurarc
+set synctex true
+set synctex-editor-command "nvr --remote-silent %f -c %l"

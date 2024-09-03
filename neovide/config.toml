@@ -1,0 +1,12 @@
+fork = false
+frame = "transparent"
+idle = true
+maximized = false
+# neovim-bin = "/opt/homebrew/bin/neovide" # in reality found dynamically on $PATH if unset
+no-multigrid = false
+srgb = false
+tabs = true
+theme = "auto"
+title-hidden = true
+vsync = true
+wsl = false
